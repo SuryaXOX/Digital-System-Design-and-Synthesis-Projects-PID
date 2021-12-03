@@ -15,4 +15,4 @@ FTPed the PID file into a CAE Linux Machine remotely through MobaXterm. Wrote a 
 ![image](https://user-images.githubusercontent.com/71836374/144601531-a8b476be-dd83-47f8-9386-eb81b99caf3a.png)
 ![image](https://user-images.githubusercontent.com/71836374/144601556-2cb8fe84-eec5-4f10-a80f-26bc411084e4.png)
 
- Finally, I incorporated that gate level netlist generated from Synthesis, into my test bench (PID_tb.sv). 
+ Finally, I incorporated that gate level netlist generated(PID.vg) from Synthesis, into my test bench (PID_tb.sv). 
